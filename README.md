@@ -1,6 +1,7 @@
 # AMWA BCP-003-03: Certificate Provisioning in NMOS Systems \[Work In Progress\]
 
-[![Build Status](https://travis-ci.com/AMWA-TV/nmos-certificate-provisioning.svg?branch=v1.0-dev)](https://travis-ci.com/AMWA-TV/nmos-certificate-provisioning)
+[![Lint Status](https://github.com/AMWA-TV/nmos-certificate-provisioning/workflows/Lint/badge.svg)](https://github.com/AMWA-TV/nmos-certificate-provisioning/actions?query=workflow%3ALint)
+[![Render Status](https://github.com/AMWA-TV/nmos-certificate-provisioning/workflows/Render/badge.svg)](https://github.com/AMWA-TV/nmos-certificate-provisioning/actions?query=workflow%3ARender)
 
 This repository contains details of this AMWA Best Current Practice for how to provision certificates in NMOS Systems.
 
