@@ -9,8 +9,8 @@ This repository contains details of this AMWA Best Current Practice for how to p
 
 Readers are advised to be familiar with:
 
-- The [overview of Networked Media Open Specifications](https://amwa-tv.github.io/nmos)
-- The [overview of Best Practices for NMOS Security](https://amwa-tv.github.io/nmos-api-security)
+- The [overview of Networked Media Open Specifications](https://specs.amwa.tv/nmos)
+- The [overview of Best Practices for NMOS Security](https://specs.amwa.tv/bcp-003)
 
 Readers should then read the [Best Common Practice document](docs/1.0.%20Certificate%20Provisioning.md)
 
