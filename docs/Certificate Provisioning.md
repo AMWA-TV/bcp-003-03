@@ -25,7 +25,7 @@ and are referenced as hyperlinks within the main body.
 
 ## Definitions
 
-_See also the [NMOS Glossary](https://github.com/AMWA-TV/nmos/wiki/Glossary), and definitions within RFCs._
+_See also the [NMOS Glossary](https://specs.amwa.tv/nmos/branches/main/docs/Glossary.html), and definitions within RFCs._
 
 ### API
 
