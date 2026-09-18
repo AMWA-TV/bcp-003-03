@@ -1,0 +1,28 @@
+{
+  "amwa_id": "BCP-003-03",
+  "url": "https://specs.amwa.tv/bcp-003-03",
+  "name": "Certificate Provisioning in NMOS Systems",
+  "status": "AMWA Specification",
+  "repo_name": "bcp-003-03",
+  "alt_repo_name": "nmos-certificate-provisioning",
+  "repo_url": "https://github.com/AMWA-TV/bcp-003-03",
+  "releases": [
+    "v1.0.0"
+  ],
+  "default_branch": "v1.0.x",
+  "show_in_index": true,
+  "intro": {
+    "what_does_it_do": [
+      "Documents best practice for automated provisioning of TLS Server Certificates to NMOS APIs."
+    ],
+    "why_does_it_matter": [
+      "A secure control plane is essential.",
+      "Certificates are an important part of this, and automation makes their use practical.",
+      "These recommendations allow interoperability using widely adopted open technologies."
+    ],
+    "how_does_it_work": [
+      "Recommends behaviour, based on Enrollment over Secure Transport (RFC 7030)",
+      "Encryption is a prerequisite (see BCP-003-01)."
+    ]
+  }
+}
